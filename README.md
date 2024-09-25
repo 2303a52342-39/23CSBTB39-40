@@ -17,8 +17,13 @@ https://colab.research.google.com/drive/11SYjEA_4DGpeQczIit3FrovQp3SWEkC8
 ASSIGNMENT-4
 
 https://colab.research.google.com/drive/1gfe8NwoqVVn_c-GAP841894eJnmfgMR5#scrollTo=9PmTtm3vGVKH
-https://colab.research.google.com/drive/1lRH2wZOLW7TTAJ5abph4Nw6BVnyfgDNK
+https://colab.research.google.com/drive/1lRH2wZOLW7TTAJ5abph4Nw6BVnyfgDNK  
+https://colab.research.google.com/drive/1VmX7lLp4aDAmWv-q3cFLcy7Tf0iGq29b#scrollTo=iiF8NWDITLqr
 
 ASSIGMENT-5  
-https://colab.research.google.com/drive/1L9YQu28MxaoszWgUqkKkTpMVjXtTVjna#scrollTo=A3UyqUzPYoxc
+https://colab.research.google.com/drive/1L9YQu28MxaoszWgUqkKkTpMVjXtTVjna#scrollTo=A3UyqUzPYoxc   
+ASSIGNMENT-6  
+
+ASSIGNMENT-7   
+
 
