@@ -31,4 +31,7 @@ https://colab.research.google.com/drive/1Ut55eFgTBSQXCqK-eCxDSRF6oZAFYAb8#scroll
 ASSIGNMENT-9  
 https://colab.research.google.com/drive/1XFwZNGdeFdNy4I0do5yIaytzAszioryQ#scrollTo=jaD9cFVT1qt6   
 ASSIGNMENT-10  
-https://colab.research.google.com/drive/1Xq4o35lv2-uOumCOsX2mnpOdPvwxDX0d#scrollTo=ajVtV8LVnanK
+https://colab.research.google.com/drive/1Xq4o35lv2-uOumCOsX2mnpOdPvwxDX0d#scrollTo=ajVtV8LVnanK  
+LAB_EXAM  
+https://colab.research.google.com/drive/1si8xMFWiYSLM7I5npHlQN-x6Qv56T5Sj#scrollTo=LKsUWQ5azTWl    
+
