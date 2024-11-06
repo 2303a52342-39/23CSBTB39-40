@@ -33,5 +33,5 @@ https://colab.research.google.com/drive/1XFwZNGdeFdNy4I0do5yIaytzAszioryQ#scroll
 ASSIGNMENT-10  
 https://colab.research.google.com/drive/1Xq4o35lv2-uOumCOsX2mnpOdPvwxDX0d#scrollTo=ajVtV8LVnanK  
 LAB_EXAM  
-https://colab.research.google.com/drive/1si8xMFWiYSLM7I5npHlQN-x6Qv56T5Sj#scrollTo=LKsUWQ5azTWl    
+https://colab.research.google.com/drive/1si8xMFWiYSLM7I5npHlQN-x6Qv56T5Sj#scrollTo=kJ1dhFNvyCyy      
 
